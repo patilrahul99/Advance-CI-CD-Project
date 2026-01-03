@@ -1,6 +1,3 @@
-# Advance-CI-CD-Project
-Its a Advance Corporate-style CI-CD pipeline.
-
-## architecture diagram:
+# Architecture Diagram:
 
 ![alt text](<Advance CI-CD.png>)
